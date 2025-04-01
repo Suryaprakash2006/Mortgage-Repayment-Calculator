@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mortgage-Repayment-Calculator/static/css/main.38f23766.css",
-    "main.js": "/Mortgage-Repayment-Calculator/static/js/main.e91b6972.js",
+    "main.js": "/Mortgage-Repayment-Calculator/static/js/main.9b1c64f3.js",
     "static/js/488.0290e6f2.chunk.js": "/Mortgage-Repayment-Calculator/static/js/488.0290e6f2.chunk.js",
     "index.html": "/Mortgage-Repayment-Calculator/index.html",
     "main.38f23766.css.map": "/Mortgage-Repayment-Calculator/static/css/main.38f23766.css.map",
-    "main.e91b6972.js.map": "/Mortgage-Repayment-Calculator/static/js/main.e91b6972.js.map",
+    "main.9b1c64f3.js.map": "/Mortgage-Repayment-Calculator/static/js/main.9b1c64f3.js.map",
     "488.0290e6f2.chunk.js.map": "/Mortgage-Repayment-Calculator/static/js/488.0290e6f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38f23766.css",
-    "static/js/main.e91b6972.js"
+    "static/js/main.9b1c64f3.js"
   ]
 }
